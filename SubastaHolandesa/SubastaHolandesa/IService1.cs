@@ -19,7 +19,7 @@ namespace SubastaHolandesa
         [OperationContract]
         CompositeType GetDataUsingDataContract(CompositeType composite);
 
-        // TODO: agregue aquí sus operaciones de servicio
+        // TODO: agregue aquí sus operaciones de servicio - prueba 1
     }
 
 
